@@ -19,3 +19,5 @@ The way the program works is that it writes your input from the addToDo.py progr
 will remove items from that text file and then send them to a text file labeled "finished.txt", or whatever the finishedPath
 variable is set to. This means that a todo list can be created, and then as items are removed from the list they are sent to
 a file that keeps track of the items that have been finished.
+
+Type the word "quit" to exit the todo.py program, or use Ctrl-c
