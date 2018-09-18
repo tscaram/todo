@@ -1,6 +1,6 @@
 
-path = "/home/tyler/Desktop/Todo/todo.txt"
-finishedPath = "/home/tyler/Desktop/Todo/finished.txt"
+path = "/home/user/Desktop/Todo/todo.txt"
+finishedPath = "/home/user/Desktop/Todo/finished.txt"
 
 def main():
 	print("Here is the list of things to do today: ")
