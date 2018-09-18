@@ -1,7 +1,6 @@
-path = "/home/tyler/Desktop/Todo/todo.txt"
+path = "/home/user/Desktop/Todo/todo.txt"
 
 def main():
-
 	print("What would you like to add to do? ")
 	item = raw_input()
 	theFile = open(path, 'a')
